@@ -1,0 +1,24 @@
+/Users/rafaeliga/eclipse_workspace/using_bundler/bin/classes.dex : \
+/Users/rafaeliga/eclipse_workspace/using_bundler/bin/classes/org/ruboto/EntryPointActivity$1.class \
+/Users/rafaeliga/eclipse_workspace/using_bundler/bin/classes/org/ruboto/EntryPointActivity$2$1.class \
+/Users/rafaeliga/eclipse_workspace/using_bundler/bin/classes/org/ruboto/EntryPointActivity$2$2.class \
+/Users/rafaeliga/eclipse_workspace/using_bundler/bin/classes/org/ruboto/EntryPointActivity$2.class \
+/Users/rafaeliga/eclipse_workspace/using_bundler/bin/classes/org/ruboto/EntryPointActivity$3.class \
+/Users/rafaeliga/eclipse_workspace/using_bundler/bin/classes/org/ruboto/EntryPointActivity.class \
+/Users/rafaeliga/eclipse_workspace/using_bundler/bin/classes/org/ruboto/example/using_bundler/BuildConfig.class \
+/Users/rafaeliga/eclipse_workspace/using_bundler/bin/classes/org/ruboto/example/using_bundler/R$attr.class \
+/Users/rafaeliga/eclipse_workspace/using_bundler/bin/classes/org/ruboto/example/using_bundler/R$drawable.class \
+/Users/rafaeliga/eclipse_workspace/using_bundler/bin/classes/org/ruboto/example/using_bundler/R$id.class \
+/Users/rafaeliga/eclipse_workspace/using_bundler/bin/classes/org/ruboto/example/using_bundler/R$layout.class \
+/Users/rafaeliga/eclipse_workspace/using_bundler/bin/classes/org/ruboto/example/using_bundler/R$string.class \
+/Users/rafaeliga/eclipse_workspace/using_bundler/bin/classes/org/ruboto/example/using_bundler/R.class \
+/Users/rafaeliga/eclipse_workspace/using_bundler/bin/classes/org/ruboto/example/using_bundler/UsingBundlerActivity.class \
+/Users/rafaeliga/eclipse_workspace/using_bundler/bin/classes/org/ruboto/JRubyAdapter.class \
+/Users/rafaeliga/eclipse_workspace/using_bundler/bin/classes/org/ruboto/Log.class \
+/Users/rafaeliga/eclipse_workspace/using_bundler/bin/classes/org/ruboto/RubotoActivity.class \
+/Users/rafaeliga/eclipse_workspace/using_bundler/bin/classes/org/ruboto/RubotoBroadcastReceiver.class \
+/Users/rafaeliga/eclipse_workspace/using_bundler/bin/classes/org/ruboto/RubotoDialog.class \
+/Users/rafaeliga/eclipse_workspace/using_bundler/bin/classes/org/ruboto/RubotoService.class \
+/Users/rafaeliga/eclipse_workspace/using_bundler/bin/classes/org/ruboto/Script.class \
+/Applications/android-sdk-macosx/tools/support/annotations.jar \
+/Users/rafaeliga/eclipse_workspace/using_bundler/libs/bundle.jar \
